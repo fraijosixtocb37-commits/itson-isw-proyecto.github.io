@@ -145,6 +145,121 @@ body {
 
 }
 
+.aniv-img {
+    float: right;
+    width: 350px;
+    margin-left: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px #00eaff;
+
+
+}
+
+.licen-img {
+    float: right;
+    width: 470px;
+    margin-left: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px #00eaff;
+
+}
+
+.inter-img {
+    float: right;
+    width: 500px;
+    margin-left: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px #00eaff;
+
+}
+
+.logoitsonazul-img {
+    float: right;
+    width: 500px;
+    margin-left: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px #00eaff;
+
+}
+
+/*------- AREA DE CARRERA -------------*/
+.espacio0 {
+  margin-bottom: 90px; /* ajusta el tamaño según necesites */
+}
+
+.espacio1 {
+  margin-bottom: 100px; /* ajusta el tamaño según necesites */
+}
+
+.espacio2 {
+  margin-bottom: 60px; /* ajusta el tamaño según necesites */
+}
+
+.espacio3 {
+  margin-bottom: 60px; /* ajusta el tamaño según necesites */
+}
+
+.espacio4 {
+  margin-bottom: 60px; /* ajusta el tamaño según necesites */
+}
+
+
+
+/*------- AREA DE INFORMACION ----------*/
+
+.bloque00 {
+  margin-bottom: 90px; /* ajusta el tamaño según necesites */
+}
+
+.bloque0 {
+  margin-bottom: 70px; /* ajusta el tamaño según necesites */
+}
+
+.bloque1 {
+  margin-bottom: 200px; /* ajusta el tamaño según necesites */
+}
+
+.bloque2 {
+  margin-bottom: 60px; /* ajusta el tamaño según necesites */
+}
+
+.bloque3 {
+  margin-bottom: 200px; /* ajusta el tamaño según necesites */
+}
+
+.bloque4 {
+  margin-bottom: 10px; /* ajusta el tamaño según necesites */
+}
+
+
+/*--------- AREA DE CONTACTO --------------------*/
+
+.space00 {
+  margin-bottom: 60px; /* ajusta el tamaño según necesites */
+}
+
+.space1 {
+  margin-bottom: 30px; /* ajusta el tamaño según necesites */
+}
+
+.space2 {
+  margin-bottom: 30px; /* ajusta el tamaño según necesites */
+}
+
+.space3 {
+  margin-bottom: 30px; /* ajusta el tamaño según necesites */
+}
+
+
+
+
+
+
+
+
+
+/*------------------------------------------------*/
+
 .btn-ver-video {
     position: absolute;
     bottom: 40px;
